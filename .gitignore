@@ -1,0 +1,8 @@
+*.zip
+
+#TF models
+*.pb
+variables.*
+plant_diseases/*_plant_diseases/
+
+.DS_Store
