@@ -5,7 +5,7 @@ Metal acceleration.
 
 ## Motivation
 
-Setting up of Conda dependencies has been traditionally very difficult. Using this repo, we hope to
+Setting up of Conda dependencies on Apple Silicon (M-series chip devices) has been traditionally very difficult. Using this repo, we hope to
 de-mystify and simplify the setup of Tensorflow environments on Apple ARM architecture.
 
 ## Prerequisites - MacOS
